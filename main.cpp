@@ -1,6 +1,9 @@
 #include <iostream>
 
+void test_SORT();
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    test_SORT();
+
     return 0;
 }
